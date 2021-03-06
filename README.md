@@ -1,7 +1,7 @@
-# Capstone-Project
+# Capstone Project
 
 
-## Presentation <a href= "https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/">view</a>
+## Presentation <a href= "https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/">View</a>
 
 
 
@@ -51,10 +51,6 @@
 
 
 <a href= "https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/Earning-wise%20Order%20Type%20Distribution.html">Earning-wise Order Type Distribution.html</a>
-
-
-```<a href= "https://htmlpreview.github.io/?">filename.html</a>```
-
 
 
 
