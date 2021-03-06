@@ -1,11 +1,26 @@
 # Capstone Project
 
-Overview.
+## Overview.
 
-★ Libraries used for 
-★ Also learn how to be creative in situations where data are not readily available by scraping web data and parsing HTML code. 
-★ Utilized Python and its pandas library to manipulate data, which helped me refine my skills for exploring and analyzing data. 
-★ Finally, used the Folium library to create maps of geospatial data and to communicate your results and findings.
+## ★ Python Libraries used for project.
+
+★ For Data Preprocessing i.e. Exploratory Data Analysis, Cleaning & Manipulation
+
+* numpy
+* pandas 
+* pgeocode
+* datetime 
+
+★ For Visualization 
+
+* plotly & plotly.express
+* missingno
+* matplotlib
+* seaborn
+
+★ For ML Models
+* sci-kit learn
+
 
 ## Source Code ~ <a href= "https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb">Python NoteBook</a>
 
