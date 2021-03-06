@@ -1,6 +1,7 @@
 # Capstone Project
 
 ## Presentation ~ <a href= "https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/">view</a>
+## Source Code ~ <a href= "https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb">view </a> or <a href= "https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb">download</a> *Python NoteBook*
 
 ## Overview.
 
@@ -24,7 +25,6 @@
 * sci-kit learn
 
 
-## Source Code ~ <a href= "https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb">view </a> Python NoteBook <a href= "https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb">download</a>
 
 
 
