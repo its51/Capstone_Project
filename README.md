@@ -2,8 +2,9 @@
 > ## Presentation & Code
 
 
->> [![](https://img.shields.io/badge/Presentation-View-darkred?style=flat&logo=Apple)](https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/) 
-> [![a](https://img.shields.io/badge/Source%20Code-%20%20View%20%20-yellow??style=flat&logo=Jupyter)](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb) [![](https://img.shields.io/badge/.iPynb-Download-darkgreen?style=flat&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
+>>>>> [![](https://img.shields.io/badge/Presentation-View-darkred?style=flat&logo=Apple)](https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/) 
+>> 
+>> [![a](https://img.shields.io/badge/Source%20Code-%20%20View%20%20-yellow??style=flat&logo=Jupyter)](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb) [![](https://img.shields.io/badge/.iPynb-Download-darkgreen?style=flat&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
 
 <br>
 
