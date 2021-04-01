@@ -4,7 +4,7 @@
 
 >>>> [![](https://img.shields.io/badge/Presentation-View-darkred?style=flat&logo=Apple)](https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/) 
 > 
-> [![a](https://img.shields.io/badge/Source%20Code-%20%20View%20%20-yellow??style=flat&logo=Jupyter)](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb) [![](https://img.shields.io/badge/.iPynb-Download-darkgreen?style=flat&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
+> [![a](https://img.shields.io/badge/Source%20Code-%20%20View%20%20-yellow??style=flat?labelColor=lightyellow&logo=Jupyter)](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb) [![](https://img.shields.io/badge/.iPynb-Download-darkgreen?style=flat&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
 
 <br>
 
@@ -12,19 +12,10 @@
 
 ## ★ Python Libraries Used
 
-
-[![](https://img.shields.io/badge/%E2%98%85%20For%20Data%20Preprocessing%20i.e.%20Exploratory%20Data%20Analysis%2C%20Cleaning%20%26%20Manipulation%20-click-blue?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
-
-<details>
-  
-<summary></summary>
-
-* numpy
-* pandas 
-* pgeocode
-* datetime 
-
-</details>
+[![](https://img.shields.io/badge/%20Data%20Preprocessing-white?style=plastic-square&logo=Databricks)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
+![](https://img.shields.io/badge/-NumPy-skyblue?style=plastic&logo=NumPy)
+![](https://img.shields.io/badge/-Pandas-grey?style=plastic&logo=pandas)
+![](https://img.shields.io/badge/-pgeocode-blue?style=plastic&logo=Radar)
 
 
 <details>
