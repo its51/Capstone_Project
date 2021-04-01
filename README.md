@@ -12,7 +12,7 @@
 
 ## ★ Python Libraries Used
 
-[![](https://img.shields.io/badge/%20Data%20Preprocessing-white?style=plastic-square&logo=Databricks)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
+![](https://img.shields.io/badge/%20Data%20Preprocessing-white?style=plastic-square&logo=Databricks)
 ![](https://img.shields.io/badge/-NumPy-skyblue?style=&logo=NumPy)
 ![](https://img.shields.io/badge/-Pandas-grey?style=&logo=pandas)
 ![](https://img.shields.io/badge/-pgeocode-blue?style=&logo=Radar)
