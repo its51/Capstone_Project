@@ -13,10 +13,11 @@
 ## ★ Python Libraries Used
 
 
+[![](https://img.shields.io/badge/%E2%98%85%20For%20Data%20Preprocessing%20i.e.%20Exploratory%20Data%20Analysis%2C%20Cleaning%20%26%20Manipulation%20-click-blue?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
 
 <details>
   
-<summary>[![](https://img.shields.io/badge/%E2%98%85%20For%20Data%20Preprocessing%20i.e.%20Exploratory%20Data%20Analysis%2C%20Cleaning%20%26%20Manipulation%20-click-blue?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)</summary>
+<summary></summary>
 
 * numpy
 * pandas 
