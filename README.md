@@ -14,7 +14,7 @@
 
 ### Data Preprocessing
 
-![](https://img.shields.io/badge/%20Data%20Preprocessing-white?style=plastic-square&logo=Databricks)
+[![](https://img.shields.io/badge/%20Data%20Preprocessing-white?style=plastic-square&logo=Databricks)](https://github.com/its51/Capstone_Project#data-preprocessing)
 [![](https://img.shields.io/badge/-NumPy-skyblue?style=&logo=NumPy)](https://devdocs.io/numpy~1.14/)
 [![](https://img.shields.io/badge/-Pandas-grey?style=&logo=pandas)](https://devdocs.io/pandas~0.25/)
 [![](https://img.shields.io/badge/-pgeocode-blue?style=&logo=Radar)](https://pgeocode.readthedocs.io/en/latest/)
