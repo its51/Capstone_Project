@@ -7,16 +7,24 @@
 |[View](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb)|[Download](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)|
 |---|---|
 
+<br>
+
 ## Overview.
 
 ## ★ Python Libraries Used
 
-★ For Data Preprocessing i.e. Exploratory Data Analysis, Cleaning & Manipulation
+
+
+<details>
+<summary><a>★ For Data Preprocessing i.e. Exploratory Data Analysis, Cleaning & Manipulation ~~Click~~</a> </summary>
 
 * numpy
 * pandas 
 * pgeocode
 * datetime 
+
+</details>
+
 
 ★ For Visualization 
 
