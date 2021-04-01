@@ -2,7 +2,7 @@
 ## Presentation & Source Code
 
 
-[![](https://img.shields.io/badge/Presentation-View-darkblue?style=plastic)](https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/) [![a](https://img.shields.io/badge/source%20code-%20%20View%20%20-blue??style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb) [![](https://img.shields.io/badge/.ipynb-Download-green?style=for-the-badge&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
+[![](https://img.shields.io/badge/Presentation-View-darkblue?style=plastic&logo=Apple&color=#0081CB)](https://beta.deckdeckgo.io/shakilshaikh51/capstone-project/) [![a](https://img.shields.io/badge/source%20code-%20%20View%20%20-blue??style=for-the-badge&logo=Jupyter)](https://nbviewer.jupyter.org/github/its51/Capstone_Project/blob/main/Capstone_Project_MFC.ipynb) [![](https://img.shields.io/badge/.ipynb-Download-green?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)
 
 <br>
 
@@ -13,7 +13,12 @@
 
 
 <details>
-<summary><a>★ For Data Preprocessing i.e. Exploratory Data Analysis, Cleaning & Manipulation ~~Click~~</a> </summary>
+  
+<summary>
+ [![](https://img.shields.io/badge/★ For Data Preprocessing i.e. Exploratory Data Analysis, Cleaning & Manipulation -Click-blue?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb) 
+
+
+</summary>
 
 * numpy
 * pandas 
@@ -23,21 +28,31 @@
 </details>
 
 
+<details>
+ 
+<summary> 
 ★ For Visualization 
+</summary>
 
 * plotly & plotly.express
 * missingno
 * matplotlib
 * seaborn
 
+</details>
+
+<details>
+  
+<summary>  
 ★ For ML Models
+</summary>  
+
 * sci-kit learn
 
+</details>
 
 
 
-
-v
 
 
 ## Plot.ly Visualization 
