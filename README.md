@@ -14,11 +14,7 @@
 
 <details>
   
-<summary>
- [![](https://img.shields.io/badge/★ For Data Preprocessing i.e. Exploratory Data Analysis, Cleaning & Manipulation -Click-blue?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb) 
-
-
-</summary>
+<summary>[![](https://img.shields.io/badge/%E2%98%85%20For%20Data%20Preprocessing%20i.e.%20Exploratory%20Data%20Analysis%2C%20Cleaning%20%26%20Manipulation%20-click-blue?style=plastic&logo=Jupyter)](https://github.com/its51/Capstone_Project/raw/main/Capstone_Project_MFC.ipynb)</summary>
 
 * numpy
 * pandas 
@@ -30,9 +26,7 @@
 
 <details>
  
-<summary> 
-★ For Visualization 
-</summary>
+<summary>★ For Visualization</summary>
 
 * plotly & plotly.express
 * missingno
@@ -43,9 +37,7 @@
 
 <details>
   
-<summary>  
-★ For ML Models
-</summary>  
+<summary>★ For ML Models</summary>  
 
 * sci-kit learn
 
