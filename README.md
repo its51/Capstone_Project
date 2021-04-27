@@ -20,9 +20,9 @@
 [![](https://img.shields.io/badge/-pgeocode-blue?style=&logo=Radar)](https://pgeocode.readthedocs.io/en/latest/)
 [![](https://img.shields.io/badge/-datetime-white?style=&logo=PYPI)](https://docs.python.org/3/library/datetime.html)
 
-<details>
- 
-<summary>★ For Visualization</summary>
+> ### Visualization
+> 
+[![](https://img.shields.io/badge/%20Data%Visualization-white?style=plastic-square&logo=Databricks)](https://github.com/its51/Capstone_Project#data-preprocessing)
 
 * plotly & plotly.express
 * missingno
