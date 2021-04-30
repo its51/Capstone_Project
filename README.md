@@ -22,7 +22,7 @@
 
 > ### Visualization
 
-[![](https://img.shields.io/badge/-%20Data%20Visualization-orange?style=&logo=Plotly)](https://github.com/its51/Capstone_Project#visualization)
+[![](https://img.shields.io/badge/-%20Data%20Visualization-white?style=plastic-square&logo=Google%20Analytics)](https://github.com/its51/Capstone_Project#visualization)
 [![](https://img.shields.io/badge/-plotly.express-green?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
 [![](https://img.shields.io/badge/-missingno-grey?style=&logo=Gitter)](https://github.com/ResidentMario/missingno)
 
