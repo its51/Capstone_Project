@@ -29,7 +29,7 @@
 [![](https://img.shields.io/badge/-seaborn-skyblue?style=&logo=Gitter)](https://seaborn.pydata.org/tutorial.html)
 
 > ### Machine Learning Models  
-[![](https://img.shields.io/badge/-sci-kit%20learn-skyblue?style=&logo=Gitter)](https://seaborn.pydata.org/tutorial.html)
+[![](https://img.shields.io/badge/-scikit%20learn-skyblue?style=&logo=Gitter)](https://scikit-learn.org/stable/user_guide.html)
 
 
 
