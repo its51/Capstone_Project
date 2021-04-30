@@ -20,12 +20,12 @@
 [![](https://img.shields.io/badge/-pgeocode-blue?style=&logo=Radar)](https://pgeocode.readthedocs.io/en/latest/)
 [![](https://img.shields.io/badge/-datetime-white?style=&logo=PYPI)](https://docs.python.org/3/library/datetime.html)
 
-> ### Visualization
+> ### Data Visualization
 
 [![](https://img.shields.io/badge/-%20Data%20Visualization-white?style=plastic-square&logo=Google%20Analytics)](https://github.com/its51/Capstone_Project#visualization)
 [![](https://img.shields.io/badge/-plotly.express-green?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
 [![](https://img.shields.io/badge/-missingno-grey?style=&logo=Gitter)](https://github.com/ResidentMario/missingno)
-
+[![](https://img.shields.io/badge/-matplotlib-darkgreen?style=&logo=Gitter)](https://matplotlib.org/stable/gallery/index.html)
 * matplotlib
 * seaborn
 
