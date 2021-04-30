@@ -23,18 +23,19 @@
 > ### Data Visualization
 
 [![](https://img.shields.io/badge/-%20Data%20Visualization-white?style=plastic-square&logo=Google%20Analytics)](https://github.com/its51/Capstone_Project#visualization)
-[![](https://img.shields.io/badge/-plotly.express-skygreen?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
-[![](https://img.shields.io/badge/-missingno-grey?style=&logo=Gitter)](https://github.com/ResidentMario/missingno)
+[![](https://img.shields.io/badge/-plotly.express-grey?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
+[![](https://img.shields.io/badge/-missingno-lightgrey?style=&logo=Gitter)](https://github.com/ResidentMario/missingno)
 [![](https://img.shields.io/badge/-matplotlib-seagreen?style=&logo=Gitter)](https://matplotlib.org/stable/gallery/index.html)
 [![](https://img.shields.io/badge/-seaborn-skyblue?style=&logo=Gitter)](https://seaborn.pydata.org/tutorial.html)
 
 > ### Machine Learning Models  
-[![](https://img.shields.io/badge/-scikit%20learn-skyblue?style=&logo=Gitter)](https://scikit-learn.org/stable/user_guide.html)
+[![](https://img.shields.io/badge/-%20Machine%20Learning%20Models-white?style=plastic-square&logo=The%20Models%20Resource)](https://github.com/its51/Capstone_Project#visualization)
+[![](https://img.shields.io/badge/-scikit%20learn-sand?style=&logo=Gitter)](https://scikit-learn.org/stable/user_guide.html)
 
 
 
 
-## Plot.ly Visualization 
+## ★ Plot.ly Visualization 
 ### Top Car Brands in Different Indian Zones.
 <a href="https://htmlpreview.github.io/?https://github.com/its51/its51.github.io/blob/main/_Top%2010%20Car%20brands%20in%20North_Zone.html">North_Zone</a>
 
