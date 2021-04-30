@@ -25,12 +25,12 @@
 [![](https://img.shields.io/badge/-%20Data%20Visualization-white?style=plastic-square&logo=Google%20Analytics)](https://github.com/its51/Capstone_Project#visualization)
 [![](https://img.shields.io/badge/-plotly.express-seagreen?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
 [![](https://img.shields.io/badge/-missingno-lightgrey?style=&logo=Gitter)](https://github.com/ResidentMario/missingno)
-[![](https://img.shields.io/badge/-matplotlib-seablue?style=&logo=Treyarch)](https://matplotlib.org/stable/gallery/index.html)
+[![](https://img.shields.io/badge/-matplotlib-lightgrey?style=&logo=Treyarch)](https://matplotlib.org/stable/gallery/index.html)
 [![](https://img.shields.io/badge/-seaborn-grey?style=&logo=Analogue)](https://seaborn.pydata.org/tutorial.html)
 
 > ### Machine Learning Models  
 [![](https://img.shields.io/badge/-%20Machine%20Learning%20Models-white?style=plastic-square&logo=The%20Models%20Resource)](https://github.com/its51/Capstone_Project#visualization)
-[![](https://img.shields.io/badge/-scikit.learn-sand?style=&logo=scikit-learn)](https://scikit-learn.org/stable/user_guide.html)
+[![](https://img.shields.io/badge/-scikit.learn-lightgrey?style=&logo=scikit-learn)](https://scikit-learn.org/stable/user_guide.html)
 
 
 
