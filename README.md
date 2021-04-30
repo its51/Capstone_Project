@@ -21,9 +21,7 @@
 [![](https://img.shields.io/badge/-datetime-white?style=&logo=PYPI)](https://docs.python.org/3/library/datetime.html)
 
 > ### Visualization
-> 
-[![](https://img.shields.io/badge/%20Data%Visualization-white?style=plastic-square&logo=Databricks)](https://github.com/its51/Capstone_Project#data-preprocessing)
-
+[![](https://img.shields.io/badge/%20Data%Visualization-white?style=plastic-square&logo=Databricks)](https://github.com/its51/Capstone_Project#visualization)
 * plotly & plotly.express
 * missingno
 * matplotlib
