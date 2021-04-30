@@ -23,22 +23,13 @@
 > ### Data Visualization
 
 [![](https://img.shields.io/badge/-%20Data%20Visualization-white?style=plastic-square&logo=Google%20Analytics)](https://github.com/its51/Capstone_Project#visualization)
-[![](https://img.shields.io/badge/-plotly.express-green?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
+[![](https://img.shields.io/badge/-plotly.express-skygreen?style=&logo=Plotly)](https://plotly.com/python-api-reference/plotly.express.html)
 [![](https://img.shields.io/badge/-missingno-grey?style=&logo=Gitter)](https://github.com/ResidentMario/missingno)
-[![](https://img.shields.io/badge/-matplotlib-darkgreen?style=&logo=Gitter)](https://matplotlib.org/stable/gallery/index.html)
-* matplotlib
-* seaborn
+[![](https://img.shields.io/badge/-matplotlib-seagreen?style=&logo=Gitter)](https://matplotlib.org/stable/gallery/index.html)
+[![](https://img.shields.io/badge/-seaborn-skyblue?style=&logo=Gitter)](https://seaborn.pydata.org/tutorial.html)
 
-</details>
-
-<details>
-  
-<summary>★ For ML Models</summary>  
-
-* sci-kit learn
-
-</details>
-
+> ### Machine Learning Models  
+[![](https://img.shields.io/badge/-sci-kit%20learn-skyblue?style=&logo=Gitter)](https://seaborn.pydata.org/tutorial.html)
 
 
 
